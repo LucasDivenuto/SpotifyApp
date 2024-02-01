@@ -20,4 +20,5 @@
 	1. Abrir una nueva ventana en Visual Studio Code y arrastar la carpeta 'frontend'
 	2. Abrir un nuevo terminal
 	3. Moverse en la ruta hasta llegar a '..\frontend>'
-	4. Ejecutar el comando 'npm start'
+	4. Ejecutar el comando 'npm install'
+	4. Ejecutar el comando 'npm start' 
